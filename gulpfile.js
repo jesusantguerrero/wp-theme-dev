@@ -5,8 +5,8 @@ var browserSync = require('browser-sync');
 //  llena con tu propia información / fill with your own information
 // var path = "C:/xampp/htdocs/sitefolder/wp-content/themes/themefolder/";
 
-var path = "C:/xampp/htdocs/jjblaw.com/wp-content/themes/jjblaw/";
-var site = "jjblaw.com/"
+var path = "C:/xampp/htdocs/example.com/wp-content/themes/mytheme/";
+var site = "example.com/"
 
 //
 gulp.task('browser-sync', function() {
